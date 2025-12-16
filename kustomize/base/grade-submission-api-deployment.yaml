@@ -13,7 +13,7 @@ spec:
   template:
     metadata:
       labels:
-        app: grade-submis
+        app: grade-submission
     spec:
       containers:
       - name: grade-submission-api
